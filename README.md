@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - **Specialties:** Natural Language Processing, Generative AI, LLM Finetuning, SQL Generation, Computer Vision
 
 ---
-
+<!--
 ## 💼 Experience
 
 ### 🔹 AIML Trainee – Simform Solutions LLP (Jan 2025 – Jul 2025)
@@ -59,6 +59,7 @@ Here are some ideas to get you started:
 > Designed a relational database system with triggers, views, and 10+ normalized tables for real-time store operations.
 
 ---
+-->
 
 ## 🏆 Achievements
 
