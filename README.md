@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/tejas-raval-2a5103234/)
 - 💻 [GitHub](https://github.com/Tejas2124) | [GitHub (Alt)](https://github.com/TejasR002)
-- 📧 tejas email: 2x3osjs@gmail.com
+- 📧 Email: 2x3osjs@gmail.com
 
 ---
 
