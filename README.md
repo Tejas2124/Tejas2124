@@ -81,5 +81,8 @@ Here are some ideas to get you started:
 
 *Passionate about solving real-world problems with ML and building intelligent, user-centric software solutions.*  
 
+## 📊 Activity Overview
+![Metrics](./github-metrics.svg)
+
 
 
