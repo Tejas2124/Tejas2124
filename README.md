@@ -81,8 +81,5 @@ Here are some ideas to get you started:
 
 *Passionate about solving real-world problems with ML and building intelligent, user-centric software solutions.*  
 
-### 📊 Activity Overview
-
-  ![Tejas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tejas2124&show_icons=true&theme=transparent)
 
 
