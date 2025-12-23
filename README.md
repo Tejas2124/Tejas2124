@@ -83,7 +83,6 @@ Here are some ideas to get you started:
 
 ### 📊 Activity Overview
 
-![Metrics](https://metrics.lecoq.io/Tejas2124?template=classic&activity=1&isocalendar=1&theme=dark)
-
+  ![Tejas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tejas2124&show_icons=true&theme=transparent)
 
 
