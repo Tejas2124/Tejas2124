@@ -79,5 +79,11 @@ Here are some ideas to get you started:
 
 ---
 
-*Passionate about solving real-world problems with ML and building intelligent, user-centric software solutions.*
+*Passionate about solving real-world problems with ML and building intelligent, user-centric software solutions.*  
+
+### 📊 Activity Overview
+
+![Metrics](https://metrics.lecoq.io/Tejas2124?template=classic&activity=1&isocalendar=1&theme=dark)
+
+
 
